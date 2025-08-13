@@ -26,7 +26,7 @@ Java_Doubly_LinkedList/
 
 ## 🟢 Catatan:
 - Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
-- Linked list ini mendukung operasi dasar dengan struktur doubly linked untuk navigasi dua arah.
+- Linked list ini mendukung operasi dasar dengan struktur double linked untuk navigasi dua arah.
 - Tidak ada dependensi eksternal; gunakan pustaka standar Java.
 
 ## 📈 Contoh Output
